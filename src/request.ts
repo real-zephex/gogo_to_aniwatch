@@ -32,3 +32,5 @@ export async function gogoDetails(id: string) {
     return null;
   }
 }
+
+// didn't work on vercel, so this is a stray commit to depoly a new one
